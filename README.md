@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
+  <img width="240" height="240" alt="image" src="https://github.com/user-attachments/assets/59e472c5-39f5-46ed-84bd-906e7de69ee6" />
 
-<!--
-**amandalika19/amandalika19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+  # Oh Hi! 👋
+  I'm Annapurna, a Software Engineer looking to expand her skills in all things software engineering!
+</div>
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### **🔗 Let's Connect!**
+
+* 🌐 Check out my **[Website](https://annapurnamandalika.vercel.app/)**
+* 🤝 Connect with me on **[LinkedIn](https://www.linkedin.com/in/amandalika/)**
+
+---
+
+### **Obligatory GitHub Metrics**
+
+<p><img src="/github-metrics.svg" alt="Metrics" width="400"></p>
